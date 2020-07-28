@@ -13,6 +13,7 @@
 ## Limitations
 
 - Virtual machine scale sets are not currently supported on dedicated hosts.
+- Proximity Placement Groups are not Supported 
 
 ## Benefits 
 
